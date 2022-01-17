@@ -1,6 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
 import NavBar from './components/NavBar';
+import ItemListContainer from './components/ItemListContainer';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
@@ -8,10 +8,14 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
-      <div><NavBar /></div>
+      <div>
+        <div><NavBar /></div>
+        <div><ItemListContainer/></div>
+        
+        
+      </div>
       
-      
-  );
+    );
 }
 
 export default App;
