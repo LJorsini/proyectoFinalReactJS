@@ -1,7 +1,9 @@
 import './App.css';
 import NavBar from './components/NavBar';
 import ItemListContainer from './components/ItemListContainer';
-import 'bootstrap/dist/css/bootstrap.min.css';
+import './components/NavBar'
+import ItemCount from './components/ItemCount';
+
 
 
 
@@ -11,9 +13,8 @@ function App() {
       <div>
         <div><NavBar /></div>
         <div><ItemListContainer/></div>
-        
-        
-      </div>
+        <div><ItemCount/></div>
+        </div>
       
     );
 }
