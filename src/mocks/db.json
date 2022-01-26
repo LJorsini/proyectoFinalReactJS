@@ -1,0 +1,46 @@
+{
+    "productos": [
+
+    {
+        "id": 0, 
+        "name": "Disco duro", 
+        "precio": "5000", 
+        "descripcion": "Disco SSD", 
+        "stock": "100"
+    },
+
+
+    {
+        "id": 1, 
+        "name": "Disco duro", 
+        "precio": "5000", 
+        "descripcion": "Disco SSD", 
+        "stock": "100"
+    },
+
+    {
+        "id": 2, 
+        "name": "Disco duro", 
+        "precio": "5000", 
+        "descripcion": "Disco SSD", 
+        "stock": "100"
+    },
+
+    {
+        "id": 3, 
+        "name": "Disco duro", 
+        "precio": "5000", 
+        "descripcion": "Disco SSD", 
+        "stock": "100"
+    },
+
+    {
+        "id": 4, 
+        "name": "Disco duro", 
+        "precio": "5000", 
+        "descripcion": "Disco SSD", 
+        "stock": "100"
+    }
+
+]
+}

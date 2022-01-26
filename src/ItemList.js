@@ -32,8 +32,8 @@ export const ARTICULO = [
   
     ];
 
-    export function getItems () {
+    /* export function getItems () {
         return new Promise ((resolve, reject) => {
           setTimeout(() => resolve(ARTICULO), 2000);
         });
-    };
+    }; */
